@@ -1,0 +1,8 @@
+/* color palrtte */
+@import '_palette.css';
+/* fon */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro&display=swap&subset=cyrillic');
+body{
+    padding: 0;
+    margin: 0;
+}
